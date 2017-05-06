@@ -5,10 +5,6 @@ date: "May 6, 2017"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Description of the Document
 This is an R Markdown document. It contains the questions of the assignmemt, the R code snippet to solve and output also.
 

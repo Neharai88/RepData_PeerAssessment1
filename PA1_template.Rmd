@@ -2,7 +2,7 @@
 title: "Reproducible Research: Peer Assessment "
 author: "Neha Rai"
 date: "May 6, 2017"
-output: html_document
+output: github_document
 ---
 
 ## Description of the Document
